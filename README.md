@@ -1,5 +1,5 @@
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Elumalai%20Parthasarthy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=L2%20Production%20Support%20Engineer%20%7C%20Banking%20%26%20FinTech%20%7C%20Chennai%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Elumalai+Parthasarthy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=L2+Production+Support+Engineer+%7C+Banking+%26+FinTech+%7C+Chennai&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- BADGES ROW -->
 <div align="center">
@@ -276,4 +276,4 @@ print(me.motto())
 ---
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling&fontColor=fff&fontSize=16&text=Thanks%20for%20visiting!%20%E2%AD%90%20Star%20a%20repo%20if%20you%20find%20it%20useful&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%"/>
